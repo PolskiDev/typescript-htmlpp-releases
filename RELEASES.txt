@@ -1,1 +1,0 @@
-Most recent release: 0.4.4 (Typescript)
